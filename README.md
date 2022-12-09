@@ -1,7 +1,7 @@
 
 ![Logo](https://www.redttu.edu.co/es/wp-content/uploads/2019/03/11.-IU-DIGITAL.png)
 
-## EA3: Cliente Vue.js
+## EA3: Evidencia de Aprendizaje 4: Reto final
 ## Gestion de Asignaturas
 
 Front que hace consumo de la API desarrollada en PHP entregadas en conjunto para la entrega del trabajo final
